@@ -1,7 +1,7 @@
 # ============================================================
 # 🕒 Basic RTC Clock (Serial Monitor Display)
 # Board: ESP8266 | Module: DS3231 | Language: MicroPython
-# Author: Kritish Mohapatra
+# Author: Bonala Kavya
 # Description:
 # Reads real-time date, time, and temperature from DS3231 RTC
 # and displays it on the Serial Monitor every second.
